@@ -1,0 +1,3 @@
+[submodule "db-dumper-2"]
+	path = db-dumper-2
+	url = git@github.com:Dierme/db-dumper.git
